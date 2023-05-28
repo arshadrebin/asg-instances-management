@@ -46,3 +46,5 @@ Activity history is shown as below.
 
 <img width="749" alt="Capture" src="https://github.com/arshadrebin/asg-instances-management/assets/116037443/d8256e4c-df61-4c2c-8c80-ac6f55aec302">
 
+In short, detaching an instance, permanently removes it from the Auto Scaling group, while placing an instance in standby temporarily removes it from the group.
+
