@@ -22,4 +22,11 @@ Please note that while detaching, please uncheck Replace Instance option and ple
 
 After this, we can reboot these insrtance scaling in or out, or replacement.
 
+Activity history is shown as below.
 
+<img width="736" alt="Capture" src="https://github.com/arshadrebin/asg-instances-management/assets/116037443/f2a8a9e5-7e4a-4a15-9158-d7611a71b825">
+
+
+### Standby and reboot
+
+In AWS Auto Scaling, a standby instance refers to an EC2 instance that is temporarily out of service within an ASG but still part of the Auto Scaling group.Standby instances are useful in scenarios such as performing system maintenance, applying updates, or temporarily reducing capacity while keeping the instance available for future use.
